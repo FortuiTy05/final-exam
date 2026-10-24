@@ -1,0 +1,10 @@
+[project]
+name = "fianl-exam"
+version = "0.1.0"
+description = "Craft Cans 选品仪表盘 —— BANA409 Data App 小组练习"
+requires-python = ">=3.14"
+dependencies = [
+    "pandas>=2.0",
+    "streamlit>=1.40",
+    "matplotlib>=3.8",
+]
